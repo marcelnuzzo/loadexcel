@@ -1,0 +1,3 @@
+// composer require yectep/phpspreadsheet-bundle
+composer require phpoffice/phpspreadsheet
+https://phpspreadsheet.readthedocs.io/en/latest/topics/reading-files/
